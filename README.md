@@ -1,8 +1,8 @@
 ### Hi there 👋
--Idiot developer and (hopefully soon) somewhat competent artist
--Likes games and likes making games
--Looking for college...
-
+-Idiot developer and (hopefully soon) somewhat competent artist\n
+-Likes games and likes making games\n
+-Looking for college...\n
+\n
 _"If your code works perfectly on the first try, it didn't; you just haven't noticed what's broken yet." -Unknown Philosopher_
 <!--
 **IanK524/IanK524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
