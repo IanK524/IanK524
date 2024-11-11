@@ -1,7 +1,7 @@
 ### Hi there 👋
--Idiot developer and (hopefully soon) somewhat competent artist<br />
+-Idiot developer<br />
 -Likes games and likes making games<br />
--Looking for college...<br />
+-RIT '29<br />
 <br />
 _"If your code works perfectly on the first try, it didn't; you just haven't noticed what's broken yet." -Unknown Philosopher_
 <!--
